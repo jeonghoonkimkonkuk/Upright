@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Current State" />
+
+    <item
+        android:id="@+id/navigation_analysis"
+        android:icon="@drawable/ic_analysis"
+        android:title="Analysis" />
+
+    <item
+        android:id="@+id/navigation_memo"
+        android:icon="@drawable/ic_memo"
+        android:title="Record" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_massage"-->
+<!--        android:icon="@drawable/ic_massage"-->
+<!--        android:title="Massage" />-->
+
+</menu>

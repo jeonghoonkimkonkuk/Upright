@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340399030392",
+    "firebase_url": "https://upright-86ae6.firebaseio.com",
+    "project_id": "upright-86ae6",
+    "storage_bucket": "upright-86ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340399030392:android:030a4eee509a6fcbe0ad8d",
+        "android_client_info": {
+          "package_name": "com.klab.upright"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340399030392-ktn1pri40dga0o3v8fslctubi4dsboif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klab.upright",
+            "certificate_hash": "04cde7edc4c2bb5d525ecfe910b78f4b52fe5cf5"
+          }
+        },
+        {
+          "client_id": "340399030392-ecd19j873hpq59bgbcf6mhc2vttqc520.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbL5IthUtJepF78_lY7ez4-Psff8tgH_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340399030392-ecd19j873hpq59bgbcf6mhc2vttqc520.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
